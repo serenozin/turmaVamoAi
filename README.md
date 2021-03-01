@@ -11,4 +11,5 @@
 ![api](https://img.shields.io/badge/-API's-000?&style=flat-square)
 ![docker](https://img.shields.io/badge/-Docker-000?&style=flat-square)
 ![business](https://img.shields.io/badge/-Business-000?&style=flat-square)
+![agile](https://img.shields.io/badge/-Agile_Development-000?&style=flat-square)
 
