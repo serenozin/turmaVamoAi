@@ -52,7 +52,7 @@ turma_Vamo_AI = Ifood + Resilia + Alura + "Muita vontade de aprender"
 
 ## Alura
 
-### Formação Estatística com Python (80h):
+#### Formação Estatística com Python (80h):
 
 
 - [x] Estatística com Python parte 1: Frequências e Medidas;
