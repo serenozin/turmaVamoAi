@@ -47,7 +47,7 @@ Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia está c
 ## Metodologia
 Seguimos a aprendizagem ativa, por isso a Resilia também disponibilizou o acesso aos cursos da Alura :heart_eyes:
 ```js
-turma_Vamo_AI = Ifood + Resilia + Alura + Muita vontade de aprender 
+turma_Vamo_AI = Ifood + Resilia + Alura + "Muita vontade de aprender"
 ```
 
 ## Alura
