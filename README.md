@@ -16,7 +16,7 @@
 Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia está capacitando 35 pessoas para a área de análise de dados
 # Nossa turma
 
-| [Aline Santos](https://github.com/AlinesantosCS) | [Ana Luiza](https://github.com/soaresana) | [Caroline Suwaki](https://github.com/csuwaki) | [Felipe Souza](https://github.com/Felisouza) | [Gabriela Turquetti](https://github.com/turquetti) | [Juliana Simão](https://github.com/Julianajjss) | [Lis R. Barreto](https://github.com/lis-r-barreto) | [Mateus Varelo](https://github.com/mateusvarelo) | [Michelle Lira](https://github.com/michelle-lira) | [Nathan Cutrin](https://github.com/nathan-cutrin) | [Ramon Brito](https://github.com/ramonbrito1995) | [Thiago Silva](https://github.com/tsffarias) | [Vithor Ribeiro](https://github.com/Vithork) | [Wagner Brenner](https://github.com/wagnerbrenner) |
+| [Aline Santos](https://github.com/AlinesantosCS) | [Ana Luiza](https://github.com/soaresana) | [Caroline Suwaki](https://github.com/csuwaki) | [Felipe Souza](https://github.com/Felisouza) | [Gabriela Turquetti](https://github.com/turquetti) | [Juliana Simão](https://github.com/Julianajjss) | [Lis R. Barreto](https://github.com/lis-r-barreto) | [Mariãn do Carmo](https://github.com/mariandocarmo) | [Mateus Varelo](https://github.com/mateusvarelo) | [Michelle Lira](https://github.com/michelle-lira) | [Nathan Cutrin](https://github.com/nathan-cutrin) | [Ramon Brito](https://github.com/ramonbrito1995) | [Thiago Silva](https://github.com/tsffarias) | [Vithor Ribeiro](https://github.com/Vithork) | [Wagner Brenner](https://github.com/wagnerbrenner) |
 
 
 ### Nossas facilitadoras :heart::
