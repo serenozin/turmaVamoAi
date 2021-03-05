@@ -66,4 +66,4 @@ turma_Vamo_AI = Ifood + Resilia + Alura + "Muita vontade de aprender"
 
 
 ## Projetos
-Módulo 1: [Joguinho de terminal](https://github.com/serenozin/JogoResilia)
+Módulo 1: [Joguinho de terminal](https://serenozin.github.io/JogoResilia/)
