@@ -66,4 +66,5 @@ turma_Vamo_AI = Ifood + Resilia + Alura + "Muita vontade de aprender"
 
 
 ## Projetos
-Módulo 1: [Joguinho de terminal](https://serenozin.github.io/JogoResilia/)
+Módulo 1: [Jogo de terminal](https://serenozin.github.io/JogoResilia/)
+Módulo 2: [Consumo da API ViaCep através de um web app](https://github.com/serenozin/ViaCep-vamoAI)
