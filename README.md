@@ -13,13 +13,13 @@
 ![business](https://img.shields.io/badge/-Business-000?&style=flat-square)
 ![agile](https://img.shields.io/badge/-Agile_Development-000?&style=flat-square)
 
-Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia está capacitando 35 pessoas para a área de análise de dados
+Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia está capacitando 35 pessoas em beckend para a área de análise de dados
 # Nossa turma
 
-| [Aline Santos](https://github.com/AlinesantosCS) | [Ana Luiza](https://github.com/soaresana) | [Caroline Suwaki](https://github.com/csuwaki) | [Felipe Souza](https://github.com/Felisouza) | [Jheysson Douglas](https://github.com/JheyssonDouglas) | [Gabriela Turquetti](https://github.com/turquetti) | [Gisele Manuel](https://github.com/giselemanuel) | [Juliana Simão](https://github.com/Julianajjss) | [Lis R. Barreto](https://github.com/lis-r-barreto) | [Mariãn do Carmo](https://github.com/mariandocarmo) | [Mateus Varelo](https://github.com/mateusvarelo) | [Michelle Lira](https://github.com/michelle-lira) | [Nathan Cutrin](https://github.com/nathan-cutrin) | [Ramon Brito](https://github.com/ramonbrito1995) | [Thiago Silva](https://github.com/tsffarias) | [Vithor Ribeiro](https://github.com/Vithork) | [Wagner Brenner](https://github.com/wagnerbrenner) |
+| [Aline Santos](https://github.com/AlinesantosCS) | [Ana Luiza](https://github.com/soaresana) | [Caroline Suwaki](https://github.com/csuwaki) | [Felipe Souza](https://github.com/Felisouza) | [Jheysson Douglas](https://github.com/JheyssonDouglas) | [Gabriela Turquetti](https://github.com/turquetti) | [Gisele Manuel](https://github.com/giselemanuel) | [Juliana Simão](https://github.com/Julianajjss) | [Lis R. Barreto](https://github.com/lis-r-barreto) | [Mariãn do Carmo](https://github.com/mariandocarmo) | [Mateus Varelo](https://github.com/mateusvarelo) | [Michelle Lira](https://github.com/michelle-lira) | [Nathan Cutrin](https://github.com/nathan-cutrin) | [Ramon Brito](https://github.com/ramonbrito1995) | [Thiago Silva](https://github.com/tsffarias) | [Vithor Ribeiro](https://github.com/Vithork) | 
 
 
-### Nossas facilitadoras :heart::
+### Nossas facilitadoras e monitor :heart::
 
 - Laís Brandão (Soft Skills) 
 - [Letícia Silva (Hard Skills)](https://github.com/leticiadasilva) 
@@ -33,26 +33,27 @@ Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia está c
 5. Responsabilidade
 6. Persistência
 
-### Em que passo estamos?
+### Módulos
 | Módulo | Conteúdo | Andamento |
 | ------ | -------- | --------- |
 | 1 | Introdução a Programação com Python | :heavy_check_mark: |
-| 2 | Orientação a objetos e utilização de aplicações HTTP | |
-| 3 | Modelos de armazenamento de dados | |
-| 4 | Operações em banco de dados e Análise de dados | |
+| 2 | Orientação a objetos e utilização de aplicações HTTP | :heavy_check_mark: |
+| 3 | Modelos de armazenamento de dados | :heavy_check_mark: |
+| 4 | Operações em banco de dados e Análise de dados | :heavy_check_mark: |
 | 5 | Bibliotecas científicas do Python | |
 | 6 | Exibição e apresentação de dados | |
 
+## Projetos
+Módulo 1: [Jogo de terminal com Python](https://serenozin.github.io/JogoResilia/)
 
-## Metodologia
-Seguimos a aprendizagem ativa, por isso a Resilia também disponibilizou o acesso aos cursos da Alura :heart_eyes:
-```js
-turma_Vamo_AI = Ifood + Resilia + Alura + "Muita vontade de aprender"
-```
+Módulo 2: [Consumo da API ViaCep através de um web app](https://github.com/serenozin/ViaCep-vamoAI)
+
+Módulo 3 e 4: [Dashboard: Campeonatos de League Of Legends](https://github.com/serenozin/DataVizu_VamoAI)
 
 ## Alura
+Plataforma de formação complementer oferecida pelo curso
 
-#### Formação Estatística com Python (80h):
+### Formação Estatística com Python (80h):
 
 
 - [x] Estatística com Python parte 1: Frequências e Medidas;
@@ -65,6 +66,4 @@ turma_Vamo_AI = Ifood + Resilia + Alura + "Muita vontade de aprender"
 - [ ] Introdução à experimentação: Análise de experimentos.
 
 
-## Projetos
-Módulo 1: [Jogo de terminal](https://serenozin.github.io/JogoResilia/)
-Módulo 2: [Consumo da API ViaCep através de um web app](https://github.com/serenozin/ViaCep-vamoAI)
+
