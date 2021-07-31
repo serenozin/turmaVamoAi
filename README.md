@@ -13,7 +13,7 @@
 ![business](https://img.shields.io/badge/-Business-000?&style=flat-square)
 ![agile](https://img.shields.io/badge/-Agile_Development-000?&style=flat-square)
 
-Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia está capacitando 35 pessoas em beckend para a área de análise de dados
+Turma pioneira do projeto VamoAI do Ifood, que em parceria com a Resilia capacitou 30 pessoas para a área de dados, durante 6 meses. Através de aulas de hard e soft skills, monitorias, mentorias, e projetos práticos. 
 
 ## Projetos
 - [Storytelling: Análise exploratória de dados pessoais e contação de história](https://github.com/serenozin/self_data_storytelling_case)
